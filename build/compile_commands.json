@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/joao/cpp_dev/neural_network_from_scratch_in_c_plus_plus/build",
+  "command": "/usr/bin/g++-8    -g   -std=c++17 -Wall -o CMakeFiles/neural_network.dir/src/main.cpp.o -c /home/joao/cpp_dev/neural_network_from_scratch_in_c_plus_plus/src/main.cpp",
+  "file": "/home/joao/cpp_dev/neural_network_from_scratch_in_c_plus_plus/src/main.cpp"
+}
+]
